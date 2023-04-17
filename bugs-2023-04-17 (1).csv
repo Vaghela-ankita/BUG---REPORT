@@ -1,0 +1,16 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+8,major,Highest,Windows,krishana@gmail.com,NEW,---,it shows validation for both field
+3,normal,High,Windows,krishana@gmail.com,NEW,---,it doesn't display proper Text according to alignment
+4,critical,High,Windows,krishana@gmail.com,NEW,---,it doesn't display proper Text according to alignment
+9,critical,High,Windows,krishana@gmail.com,NEW,---,it shows validation for both field
+11,major,High,Windows,krishana@gmail.com,NEW,---,there is no forget password option
+13,major,High,Windows,krishana@gmail.com,NEW,---,it doesn't display proper Text according to alignment
+6,normal,Normal,Windows,krishana@gmail.com,NEW,---,it doesn't display proper Text according to alignment
+10,normal,Normal,Windows,krishana@gmail.com,NEW,---,it doesn't work
+15,normal,Normal,Windows,krishana@gmail.com,NEW,---,it doesn't display proper Text according to alignment
+5,normal,Normal,Windows,sweta@gmail.com,NEW,---,it shows validation for both field
+7,normal,Normal,Windows,sweta@gmail.com,NEW,---,it shows validation for both field
+12,normal,Normal,Windows,sweta@gmail.com,NEW,---,it accepts integer it not working proplery
+2,normal,High,Windows,krishana@gmail.com,ASSIGNED,---,it doesn't display proper Text according to alignment
+1,normal,High,Windows,sweta@gmail.com,ASSIGNED,---,it doesn't display proper Text according to alignment
+14,normal,Normal,Windows,krishana@gmail.com,ASSIGNED,---,it doesn't display proper Text according to alignment
